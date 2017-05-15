@@ -1,0 +1,6 @@
+c:\users\csullivan\documents\visual studio 2017\Projects\ConsoleApp1\CarMaker\obj\Debug\CarMaker.csprojResolveAssemblyReference.cache
+c:\users\csullivan\documents\visual studio 2017\Projects\ConsoleApp1\CarMaker\bin\Debug\CarMaker.exe.config
+c:\users\csullivan\documents\visual studio 2017\Projects\ConsoleApp1\CarMaker\bin\Debug\CarMaker.exe
+c:\users\csullivan\documents\visual studio 2017\Projects\ConsoleApp1\CarMaker\bin\Debug\CarMaker.pdb
+c:\users\csullivan\documents\visual studio 2017\Projects\ConsoleApp1\CarMaker\obj\Debug\CarMaker.exe
+c:\users\csullivan\documents\visual studio 2017\Projects\ConsoleApp1\CarMaker\obj\Debug\CarMaker.pdb

@@ -1,0 +1,6 @@
+c:\users\csullivan\documents\visual studio 2017\Projects\mathfacts\mathfacts\obj\Debug\mathfacts.csprojResolveAssemblyReference.cache
+c:\users\csullivan\documents\visual studio 2017\Projects\mathfacts\mathfacts\bin\Debug\mathfacts.exe.config
+c:\users\csullivan\documents\visual studio 2017\Projects\mathfacts\mathfacts\bin\Debug\mathfacts.exe
+c:\users\csullivan\documents\visual studio 2017\Projects\mathfacts\mathfacts\bin\Debug\mathfacts.pdb
+c:\users\csullivan\documents\visual studio 2017\Projects\mathfacts\mathfacts\obj\Debug\mathfacts.exe
+c:\users\csullivan\documents\visual studio 2017\Projects\mathfacts\mathfacts\obj\Debug\mathfacts.pdb

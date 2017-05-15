@@ -1,0 +1,6 @@
+c:\users\csullivan\documents\visual studio 2017\Projects\datastructs\datastructs\bin\Debug\datastructs.exe.config
+c:\users\csullivan\documents\visual studio 2017\Projects\datastructs\datastructs\bin\Debug\datastructs.exe
+c:\users\csullivan\documents\visual studio 2017\Projects\datastructs\datastructs\bin\Debug\datastructs.pdb
+c:\users\csullivan\documents\visual studio 2017\Projects\datastructs\datastructs\obj\Debug\datastructs.csprojResolveAssemblyReference.cache
+c:\users\csullivan\documents\visual studio 2017\Projects\datastructs\datastructs\obj\Debug\datastructs.exe
+c:\users\csullivan\documents\visual studio 2017\Projects\datastructs\datastructs\obj\Debug\datastructs.pdb

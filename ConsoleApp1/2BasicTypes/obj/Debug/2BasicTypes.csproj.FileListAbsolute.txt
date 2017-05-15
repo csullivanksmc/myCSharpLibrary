@@ -1,0 +1,6 @@
+c:\users\csullivan\documents\visual studio 2017\Projects\ConsoleApp1\2BasicTypes\bin\Debug\2BasicTypes.exe.config
+c:\users\csullivan\documents\visual studio 2017\Projects\ConsoleApp1\2BasicTypes\bin\Debug\2BasicTypes.exe
+c:\users\csullivan\documents\visual studio 2017\Projects\ConsoleApp1\2BasicTypes\bin\Debug\2BasicTypes.pdb
+c:\users\csullivan\documents\visual studio 2017\Projects\ConsoleApp1\2BasicTypes\obj\Debug\2BasicTypes.csprojResolveAssemblyReference.cache
+c:\users\csullivan\documents\visual studio 2017\Projects\ConsoleApp1\2BasicTypes\obj\Debug\2BasicTypes.exe
+c:\users\csullivan\documents\visual studio 2017\Projects\ConsoleApp1\2BasicTypes\obj\Debug\2BasicTypes.pdb
